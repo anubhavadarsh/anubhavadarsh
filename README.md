@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://data.whicdn.com/images/326777733/original.gif" width="600" height="300"/>
 </div>
+---
+
+### :woman_technologist: About Me :

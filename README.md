@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 </div>
 <hr />
 
-### :woman_technologist: About Me :
+### :technologist: About Me :

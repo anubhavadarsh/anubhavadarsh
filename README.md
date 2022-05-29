@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 </div>
 <hr />
 
-### :technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### About <img src="https://media.giphy.com/media/J4bOqeJErzOJlJ9bOb/giphy.gif" width="30"> :
+I am a Front Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.

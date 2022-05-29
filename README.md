@@ -27,14 +27,17 @@ Here are some ideas to get you started:
 </div>
 <img src="https://komarev.com/ghpvc/?username=anubhavadarsh&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<strong>
+  Hi, you found me! I am a front-end developer from India.
+</strong>
 </h1>
 </div>
-<div align="center">
-  <img src="https://data.whicdn.com/images/326777733/original.gif" width="600" height="300"/>
-</div>
-<hr />
 
-### About <img src="https://media.giphy.com/media/J4bOqeJErzOJlJ9bOb/giphy.gif" width="30"> :
-I am a Front Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+>An Investment in knowledge always pays the best interest.
+### **About Me :**
+<ul>
+	<li>🤝I am working as a Software Engineering intern.</li>
+	<li>📖Exploring Technical Content Writing.</li>
+	<li>🚀I believe Web3.0 is the future.</li>
+	<li>⌛In my free time, I read technical books and write articles.</li>
+</ul>

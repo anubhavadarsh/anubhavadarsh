@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
-> > An Investment in knowledge always pays the best interest.
+>An Investment in knowledge always pays the best interest.
 ### **About Me :**
 <ul>
 	<li>🤝I am working as a Software Engineering intern.</li>

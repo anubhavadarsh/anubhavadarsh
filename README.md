@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 >An Investment in knowledge always pays the best interest.
 ### **About Me :**
 <ul>
-	<li>🤝I am working as a Software Engineering intern.</li>
-	<li>📖Exploring Technical Content Writing.</li>
-	<li>🚀I believe Web3.0 is the future.</li>
+	<li>🤝Software Engineer</li>
+	<li>📖React developer since last one year</li>
+	<li>🚀Believe in first principle thinking</li>
 	<li>⌛In my free time, I read technical books and write articles.</li>
 </ul>
 <hr/>

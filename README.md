@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### **About Me :**
 <ul>
 	<li>🤝Software Engineer</li>
-	<li>📖React developer since last one year</li>
+	<li>📖React developer</li>
 	<li>🚀Believe in first principle thinking</li>
 	<li>⌛In my free time, I read technical books and write articles.</li>
 </ul>

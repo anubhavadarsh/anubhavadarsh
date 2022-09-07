@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 
 ### **My Blogs:**
 <!-- BLOG-POST-LIST:START -->
+- [Redux + React](https://medium.com/@anubhav.adarsh9/redux-react-a9a856a8b6ca?source=rss-dcf2d64b3497------2)
 - [Storybook + React Native](https://towardsdev.com/storybook-react-native-60ec2236c583?source=rss-dcf2d64b3497------2)
 - [Maximum AND value of a pair in an array](https://medium.com/@anubhav.adarsh9/maximum-and-value-of-a-pair-in-an-array-96f112f959d8?source=rss-dcf2d64b3497------2)
 <!-- BLOG-POST-LIST:END -->

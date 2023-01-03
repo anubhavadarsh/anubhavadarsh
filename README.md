@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=anubhavadarsh&style=flat-square&color=blue" alt=""/>
 <h1>
 <strong>
-  Hi, you found me! I am a software developer from India.
+  Hi, you found me! I am a software developer, Engineer from India.
 </strong>
 </h1>
 </div>

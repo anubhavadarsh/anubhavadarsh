@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 >An Investment in knowledge always pays the best interest.
 ### **About Me :**
 <ul>
-	<li>🤝Software Engineer</li>
-	<li>📖React developer</li>
+	<li>🤝React | React Native | Node</li>
+	<li>📖creative developer and problem solver</li>
 	<li>🚀Believe in first principle thinking</li>
 	<li>⌛In my free time, I read technical books and write articles.</li>
 </ul>
